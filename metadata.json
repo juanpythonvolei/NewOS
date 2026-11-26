@@ -1,0 +1,6 @@
+{
+  "name": "AetherOS Studio",
+  "description": "Workstation de engenharia para projetar, simular ao vivo e gerar os arquivos-fonte compiláveis do sistema operacional inédito AetherOS e sua linguagem nativa AetherLang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
